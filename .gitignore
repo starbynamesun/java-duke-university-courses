@@ -7,9 +7,10 @@ nbproject/
 # Eclipse
 .settings
 .classpath
-.class
-.project
 .ctxt
+.project
+.class
+
 
 # IDEA
 .idea
